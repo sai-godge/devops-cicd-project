@@ -50,11 +50,12 @@ This project demonstrates a CI/CD pipeline built using Jenkins and Podman.
 
 ## Project Structure
 
+```
 devops-cicd-project
 │
 ├── app/
 │   ├── index.html
-│  
+│   └── style.css
 │
 ├── Dockerfile
 │
@@ -66,10 +67,11 @@ devops-cicd-project
 │   └── deployed-app.png
 │
 └── README.md
-
+```
 ## Application
 Accessible at:
 http://localhost:8081
+
 
 
 
