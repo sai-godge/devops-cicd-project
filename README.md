@@ -76,7 +76,7 @@ http://localhost:8081
 # Project Screenshots 📸
 
 ### Jenkins Dashboard
-![Jenkins Dashboard](screenshots/jenkins-dashboard.png)
+![Jenkins Dashboard]()
 
 ---
 
@@ -94,6 +94,7 @@ http://localhost:8081
 ![Application Deployment](screenshots/app-deployment-success.png)
 
 ---
+
 
 
 
