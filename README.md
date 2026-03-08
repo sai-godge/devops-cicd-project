@@ -125,9 +125,25 @@ http://localhost:8081
 
 ---
 
+# Key Learning Outcomes 📚
 
+- Understanding CI/CD pipelines
+- Jenkins pipeline automation
+- Containerization using Podman
+- Deploying applications using containers
+- GitHub integration with Jenkins
 
+---
 
+# Author 👨‍💻
+
+*Saiprasad Sambhaji Godge*
+
+B.Tech Computer Science Engineering  
+Aspiring *Cloud & DevOps Engineer*
+
+GitHub:  
+https://github.com/SAI-GODGE
 
 
 
