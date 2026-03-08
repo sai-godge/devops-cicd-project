@@ -81,7 +81,7 @@ http://localhost:8081
 ---
 
 ### Jenkins Pipeline Success
-![Pipeline Success](screenshots/jenkins-pipeline success.png)
+![Pipeline Success](screenshots/Jenkins-pipelinesuccess.png)
 
 ---
 
@@ -94,6 +94,7 @@ http://localhost:8081
 ![Application Deployment](screenshots/app-deployment-success.jpeg)
 
 ---
+
 
 
 
