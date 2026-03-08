@@ -4,7 +4,41 @@
 This project demonstrates a CI/CD pipeline built using Jenkins and Podman.
 
 ## Architecture
-GitHub → Jenkins → Build Container → Deploy Container → Web App
+
+```text
+        ┌───────────────┐
+        │   Developer   │
+        └───────┬───────┘
+                │ git push
+                ▼
+        ┌───────────────┐
+        │     GitHub    │
+        │   Repository  │
+        └───────┬───────┘
+                │ trigger
+                ▼
+        ┌───────────────┐
+        │    Jenkins    │
+        │   CI/CD Job   │
+        └───────┬───────┘
+                │
+        ┌───────▼────────┐
+        │ Clone Source    │
+        │ Build Image     │
+        │ Run Container   │
+        └───────┬────────┘
+                │
+                ▼
+        ┌───────────────┐
+        │  Podman       │
+        │ Container     │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │  Web App      │
+        │ localhost:8081│
+        └───────────────┘
 
 ## Tools Used
 - Jenkins
@@ -21,3 +55,4 @@ README.md
 ## Application
 Accessible at:
 http://localhost:8081
+
