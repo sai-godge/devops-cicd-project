@@ -49,13 +49,28 @@ This project demonstrates a CI/CD pipeline built using Jenkins and Podman.
 - Nginx
 
 ## Project Structure
-app/
-Containerfile
-README.md
+
+devops-cicd-project
+│
+├── app/
+│   ├── index.html
+│  
+│
+├── Dockerfile
+│
+├── Jenkinsfile
+│
+├── screenshots/
+│   ├── jenkins-pipeline.png
+│   ├── console-output.png
+│   └── deployed-app.png
+│
+└── README.md
 
 ## Application
 Accessible at:
 http://localhost:8081
+
 
 
 
