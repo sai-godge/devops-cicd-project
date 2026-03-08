@@ -3,6 +3,10 @@
 ## Overview
 This project demonstrates a CI/CD pipeline built using Jenkins and Podman.
 
+Whenever the code is updated in the GitHub repository, Jenkins automatically pulls the code, builds a container image, and deploys the application. The application then runs inside a container and can be accessed through a web browser.
+
+This project shows how DevOps tools help automate the process of building and deploying applications quickly and efficiently.
+
 ## Architecture
 
 ---
@@ -144,6 +148,7 @@ Aspiring *Cloud & DevOps Engineer*
 
 GitHub:  
 https://github.com/SAI-GODGE
+
 
 
 
