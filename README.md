@@ -57,7 +57,7 @@ devops-cicd-project
 │   ├── index.html
 │   └── style.css
 │
-├── Dockerfile / Containerfile
+├── Dockerfile/Containerfile
 │
 ├── Jenkinsfile
 │
@@ -71,6 +71,7 @@ devops-cicd-project
 ## Application
 Accessible at:
 http://localhost:8081
+
 
 
 
