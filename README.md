@@ -68,10 +68,40 @@ devops-cicd-project
 │
 └── README.md
 ```
-## Application
+
+## Application 🌐
+
+The application is deployed using a container built with Podman and served via Nginx.
+
 Accessible at:
+
 http://localhost:8081
 
+---
+
+### Run the application manually
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/SAI-GODGE/devops-cicd-project.git
+cd devops-cicd-project
+```
+2. Build the container image
+
+```bash
+podman build -t devops-webapp .
+```
+3. Run the container
+
+```bash
+podman run -d -p 8081:80 devops-webapp
+```
+4. Open in browser
+
+```bash
+http://localhost:8081
+```
 
 # Project Screenshots 📸
 
@@ -94,6 +124,7 @@ http://localhost:8081
 ![Application Deployment](screenshots/app-deployment-success.jpeg)
 
 ---
+
 
 
 
