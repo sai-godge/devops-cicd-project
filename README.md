@@ -73,6 +73,28 @@ Accessible at:
 http://localhost:8081
 
 
+# Project Screenshots 📸
+
+### Jenkins Dashboard
+![Jenkins Dashboard](screenshots/jenkins-dashboard.png)
+
+---
+
+### Jenkins Pipeline Success
+![Pipeline Success](screenshots/jenkins-pipeline-success.png)
+
+---
+
+### Jenkins User Profile
+![User Profile](screenshots/jenkins-user-profile.png)
+
+---
+
+### Application Deployment
+![Application Deployment](screenshots/app-deployment-success.png)
+
+---
+
 
 
 
