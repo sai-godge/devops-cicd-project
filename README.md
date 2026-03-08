@@ -76,24 +76,25 @@ http://localhost:8081
 # Project Screenshots 📸
 
 ### Jenkins Dashboard
-![Jenkins Dashboard](screenshots/jenkins-dashboard.png)
+![Jenkins Dashboard](Screenshots/jenkins-dashboard.png)
 
 ---
 
 ### Jenkins Pipeline Success
-![Pipeline Success](screenshots/jenkins-pipeline-success.png)
+![Pipeline Success](Screenshots/jenkins-pipeline-success.png)
 
 ---
 
 ### Jenkins User Profile
-![User Profile](screenshots/jenkins-user-profile.png)
+![User Profile](Screenshots/jenkins-user-profile.png)
 
 ---
 
 ### Application Deployment
-![Application Deployment](screenshots/app-deployment-success.png)
+![Application Deployment](Screenshots/app-deployment-success.png)
 
 ---
+
 
 
 
