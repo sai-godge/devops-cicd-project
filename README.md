@@ -39,6 +39,7 @@ This project demonstrates a CI/CD pipeline built using Jenkins and Podman.
         │  Web App      │
         │ localhost:8081│
         └───────────────┘
+---
 
 ## Tools Used
 - Jenkins
@@ -55,4 +56,5 @@ README.md
 ## Application
 Accessible at:
 http://localhost:8081
+
 
